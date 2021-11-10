@@ -1,7 +1,7 @@
 todo-demo
 ========
 
-This project is a demo source code of the article.
+This project is a demo source code of [this article](https://medium.com/@victor.teo/the-fastest-way-to-create-and-run-a-python-api-server-in-5-minutes-dd062e09a32d).
 
 This project is created with JSONClasses CLI.
 

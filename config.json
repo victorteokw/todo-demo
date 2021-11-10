@@ -1,0 +1,5 @@
+{
+    "operator": {
+        "secretKey": "environ['OPERATOR_SECRET_KEY']"
+    }
+}
